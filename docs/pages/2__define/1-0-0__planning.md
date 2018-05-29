@@ -6,3 +6,10 @@ published: true
 # ─────────────────────
 title: Planning
 ---
+
+<table class="table"> == $0
+    <thead>
+        <tr>
+            <th>Wat?</th>
+            <th>Wanneer?</th>
+        </tr>

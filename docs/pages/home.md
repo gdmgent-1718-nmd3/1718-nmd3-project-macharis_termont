@@ -10,6 +10,6 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - Macharis Brent, 2CMO-GD
- - Termont Siemen, 2CMO-GD
+ - Brent Macharis, 2CMO-GD
+ - Siemen Termont, 2CMO-GD
 
