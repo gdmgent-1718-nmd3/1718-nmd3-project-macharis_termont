@@ -10,5 +10,6 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Macharis Brent, 2CMO-GD
+ - Termont Siemen, 2CMO-GD
+
