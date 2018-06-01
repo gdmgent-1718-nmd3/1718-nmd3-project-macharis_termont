@@ -21,3 +21,15 @@ We hadden ons idee voor de smartphone, er ontbrak nog iets, dat extra tikkeltje 
 ### Concept: Hello, ROBOT! Pokémon edition.
 
 ## Elevator Pitch
+<img src="../../images/pitch1.jpg" alt="pitchslide1" class="images2">
+<img src="../../images/pitch2.jpg" alt="pitchslide2" class="images2">
+<img src="../../images/pitch3.jpg" alt="pitchslide3" class="images2">
+<img src="../../images/pitch4.jpg" alt="pitchslide4" class="images2">
+<img src="../../images/pitch5.jpg" alt="pitchslide5" class="images2">
+<img src="../../images/pitch6.jpg" alt="pitchslide6" class="images2">
+<img src="../../images/pitch7.jpg" alt="pitchslide7" class="images2">
+<img src="../../images/pitch8.jpg" alt="pitchslide8" class="images2">
+<img src="../../images/pitch9.jpg" alt="pitchslide9" class="images2">
+<img src="../../images/pitch10.jpg" alt="pitchslide10" class="images2">
+<img src="../../images/pitch11.jpg" alt="pitchslide11" class="images2">
+<img src="../../images/pitch12.jpg" alt="pitchslide12" class="images2">

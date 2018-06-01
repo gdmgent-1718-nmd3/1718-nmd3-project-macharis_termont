@@ -10,6 +10,11 @@ title: Technische Analyse
 Technische Analyse
 ------------------
 
+
+<img src="../../images/tech.png" alt="tech" class="images2">
+
+<br>
+
 **Gekozen smartphone:**             |   |   Iphone X                                     |
 ------------------------------------|---|------------------------------------------------|
 **Gebruik:**			            |   |Handig in gebruik, alledaags gebruik, muziek    |

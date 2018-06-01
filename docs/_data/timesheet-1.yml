@@ -3,10 +3,10 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 1.5
+  time: 5
   task: Analyse, concept bij bezoeker.
 -
-  time: 1.5
+  time: 2
   task: Analyse, Usefullness-Usability-Desirability-Credibility.
 -
   time: 2.5
@@ -16,7 +16,7 @@
   task: Concept & elevator pitch.
 -
   time: 2.25
-  task: Planning
+  task: Planning.
 -
   time: 0.5
   task: Ideaboard.
@@ -52,10 +52,7 @@
   task: Ui Style Guide, formulieren
 -
   time: 12
-  task: Onderzoek Git.
+  task: Onderzoek Git (omwille van problemen), repo + site + push.
 -
   time: 10
   task: Productiedossier
--
-  time: 0.0
-  task: 
