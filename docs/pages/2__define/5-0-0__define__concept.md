@@ -19,4 +19,5 @@ Bij elke robot hangt er een plakaatje met uitleg over wat de robot doet, waartoe
 We hadden ons idee voor de smartphone, er ontbrak nog iets, dat extra tikkeltje plezier. Hier komt de smartwatch goed bij te pas! Ons concept is gebaseerd op de pokédex uit Pokémon, dit is een concept uit de jaren ‘90 dat we zouden moderniseren met behulp van een smartwatch. Per gesyncroniseerde beacon komt er dus niet alleen een korte video en een beschrijving maar je voegt zo ook deze robot toe aan je collectie! Als je alle robot’s “gevangen” hebt verkrijg je je eigen persoonlijke code dat je kan gebruiken in de wedstrijd. Wie gewonnen is krijgt een prijs, een kwalitatieve figurine van hun favoriete robot!
 
 ### Concept: Hello, ROBOT! Pokémon edition.
-	
+
+## Elevator Pitch

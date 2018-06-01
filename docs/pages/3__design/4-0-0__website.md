@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Website
 ---
+*Ontwerp in groep een promo-/infowebsite voor het concept (smartwatch- en smartphone-app). Werk dit ontwerp uit in een interactief prototype met Adobe XD CC.*
+*De website moet potentiële investeerders en gebruikers een goed beeld geven van het algemeen concept en de werking van de apps.*
+
+Designs in Xd:<a href="" target="blanck" >Xd Links</a>

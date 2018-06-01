@@ -3,26 +3,23 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Journey maps.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Style tiles.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Smartwatch, screen designs (remastered).
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Smartphone, screen designs.
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Website, Sitemap brainstorm + design.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 0.0
+  task: Website, wireframes.
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  task: Website, screen design.

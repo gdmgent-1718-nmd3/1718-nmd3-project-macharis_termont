@@ -13,6 +13,10 @@ title: Screen Designs
 
 <img src="../../../images/screen3.png" alt="screendesign3" class="images3">
 
+<img src="../../../images/screen3.1.png" alt="screendesign3" class="images3">
+
+<img src="../../../images/screen3.2.png" alt="screendesign3" class="images3">
+
 <img src="../../../images/screen4.png" alt="screendesign4" class="images3">
 
 <img src="../../../images/screen5.png" alt="screendesign5" class="images3">

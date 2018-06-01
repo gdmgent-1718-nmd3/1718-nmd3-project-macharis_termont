@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+
+<img src="../../../images/sitewireframe1.jpg" alt="wireframe" class="images2">
