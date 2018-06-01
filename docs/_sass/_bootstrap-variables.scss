@@ -10,13 +10,19 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$blue:    #6CF8FC !default;
+$primary: $blue;
 
+$dark-blue: #102333;
+$secondary: $dark-blue;
+
+$pink: #EE5C67;
+$tertiary: $pink;
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Ubuntu, sans-serif;

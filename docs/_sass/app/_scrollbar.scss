@@ -10,9 +10,9 @@ $scrollbar-width: .4em;
     // -webkit-box-shadow: none;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: rgba($primary, .5);
+  background-color: rgba($tertiary, .5);
   border-radius: $scrollbar-width / 2;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: $primary;
+  background-color: $tertiary;
 }

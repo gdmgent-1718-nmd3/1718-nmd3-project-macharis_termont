@@ -7,5 +7,3 @@ published: true
 title: Gebruikerstests
 ---
 
-Paper Prototype
----------------
