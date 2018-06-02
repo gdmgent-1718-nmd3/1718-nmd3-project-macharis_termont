@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+@import
+  "../bootstrap-variables",                  // See _bootstrap-variables.scss
+  "../../_vendor/bootstrap/scss/bootstrap",  // See _vendor/bootstrap/scss/bootstrap.scss
+  "_ui-style-guide";
+
+
+
+
+h1 {
+    text-transform: uppercase;
+    color: $tertiary;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+h2 {
+    text-transform: uppercase;
+    margin-left: 60px;
+}
+
+h3 {
+    color: $tertiary;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+p{
+    margin-left: 60px;
+}
+
+.images{
+    width: 500px;
+    margin-left: 60px;
+}
+
+.images2{
+    width: 100%;
+    margin-left: 60px;
+}
+
+.images3 {
+    width: 300px;
+    margin-left: 60px;
+}
+
+.box {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.box2 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+    color: black;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+  
+.lightblue {
+    background: #6CF8FC;
+}
+
+.blue {
+    background: #348482;
+}
+
+.midblue {
+    background: #253E56;
+}
+
+.darkblue {
+    background: #102333;
+}
+
+.pink {
+    background: #EE5C67;
+}
+
+.darkpink {
+    background: #8E1B34;
+}
+
+.white {
+    background: #ffff;
+}
+
+.black {
+    background: black;
+}

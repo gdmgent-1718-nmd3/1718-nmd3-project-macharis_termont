@@ -22,10 +22,13 @@ Paper Prototypes:
 
 Gebruikerstests: 
 ================
+We hebben gekozen deze tests toch uit te voeren aan de hand van een digital prototype, dit omdat het niet makkelijk is voor een leek om beeld te vormen bij dit soort wireframes.
+Designs in Xd:<a href="https://xd.adobe.com/view/57168c3c-d94a-4173-6cb2-9796f4cd7867-2127/" target="blanck">Xd Links</a>
 
-## Gebruiker 1: (Mireille Aubroeck)
+## Gebruiker 1: (Bram Macharis)
 ### Opmerking 1:
 Het laadscherm is een mooie opening en geeft je precies het gevoel dat je in de toekomst gelanceerd word.
+Het kleurenschema is mooi gekozen en past bij de applicatie.
 ### Opmerking 2:
 Het menu is heel eenvoudig, ik wist wel niet welk icoontje voor wat stond maar dit werd wel meteen duidelijk als we er verder op klikten.
 ### Opmerking 3:
@@ -33,15 +36,15 @@ Er kan vanuit het infoscherm bij de robots niet naar boven of naar beneden genav
 ### Samenvatting:
 De app ziet er zeer mooi uit maar mist nog een beetje verfijning naar gebruik toe, het ziet er futuristisch uit maar ook een beetje vintage met de robot's, een mooie match!
 
-## Gebruiker 2: (Bram Macharis)
+## Gebruiker 2: (Marc Macharis)
 ### Opmerking 1:
-Het kleurenschema is mooi gekozen en past bij de applicatie.
+Het voelt heel modern aan.
 ### Opmerking 2:
 Het is leuk gedaan bij de "Contest" dat de robot kruisjes heeft als ogen als de index nog niet volledig is en vinkjes als hij vervolledigd is.
 ### Opmerking 3:
-De pijltjes om terug te gaan zijn wat klein.
+De pijltjes om terug te gaan zijn wat klein. (*oplossing, grotere hitbox maar zelfde pijltjes*)
 ### Samenvatting:
-De app heeft een mooi kleurschema en er zitten leuke details in. Op vlak van gebruiksvriendelijkheid zijn de terugkeerpijltjes iets te klein.
+De app voelt modern aan en er zitten leuke details in. Op vlak van gebruiksvriendelijkheid zijn de terugkeerpijltjes iets te klein.
 
 ## Algemene samenvatting:
 Mooie app maar er is nog nood aan verfijning en verbetering van de gebruiksvriendelijkheid. Ook zijn er mooie details dat de aandacht voor de app versterkt.

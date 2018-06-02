@@ -6,3 +6,13 @@ published: true
 # ─────────────────────
 title: knoppen
 ---
+
+Smartwatch
+----------
+
+
+Smartphone
+----------
+
+Website
+-------

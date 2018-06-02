@@ -3,16 +3,19 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
+  time: 4.5
+  task: Museumbezoek.
+-
   time: 5
   task: Analyse, concept bij bezoeker.
 -
   time: 2
   task: Analyse, Usefullness-Usability-Desirability-Credibility.
 -
-  time: 2.5
+  time: 3
   task: Technische analyse.
 -
-  time: 3.25
+  time: 4
   task: Concept & elevator pitch.
 -
   time: 2.25
@@ -24,13 +27,13 @@
   time: 4.5
   task: Smartwatch-app, wireflow + map.
 -
-  time: 2.25
+  time: 5
   task: Smartwatch-app, paper prototype.
 -
-  time: 1.75
+  time: 2.25
   task: Smartwatch-app, Gebruikerstests.
 -
-  time: 4
+  time: 4.5
   task: Smartwatch-app, screen designs (first edition).
 -
   time: 1
@@ -39,26 +42,17 @@
   time: 1.5
   task: Smartphone-app, wireflow.
 -
-  time: 0.0
+  time: 4.25
   task: Smartphone-app, gebruikerstests.
 -
   time: 0.5
   task: Website, sitemap (brainstorm).
 -
-  time: 0.0
-  task: Ui Style Guide, Typografie.
--
-  time: 0.0
-  task: Ui Style Guide, Kleuren.
--
-  time: 0.0
-  task: Ui Style Guide, knoppen.
--
-  time: 0.0
-  task: Ui Style Guide, formulieren
+  time: 1.5
+  task: Ui Style Guide,Typo, Kleuren, Knoppen, Iconen.
 -
   time: 8
   task: Onderzoek Git (omwille van problemen), repo + site + push.
 -
-  time: 15
+  time: 18.25
   task: Productiedossier.
