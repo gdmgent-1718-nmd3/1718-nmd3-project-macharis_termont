@@ -24,11 +24,17 @@
   time: 4.5
   task: Smartwatch-app, wireflow + map.
 -
-  time: 0.0
+  time: 2.25
+  task: Smartwatch-app, paper prototype.
+-
+  time: 1.75
   task: Smartwatch-app, Gebruikerstests.
 -
   time: 4
   task: Smartwatch-app, screen designs (first edition).
+-
+  time: 1
+  task: Smartwatch-app, Xd.
 -
   time: 1.5
   task: Smartphone-app, wireflow.
@@ -51,8 +57,8 @@
   time: 0.0
   task: Ui Style Guide, formulieren
 -
-  time: 12
+  time: 8
   task: Onderzoek Git (omwille van problemen), repo + site + push.
 -
-  time: 10
-  task: Productiedossier
+  time: 15
+  task: Productiedossier.

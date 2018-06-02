@@ -26,4 +26,6 @@ Datum	      |   |      |   |    Opdracht                                  |
 04/06	      |   |      |   |    Indienen en voorstelling opdracht.        | 
 ==============|===|======|===|============================================  |
               |   |      |   |                                              |
-{:.Table}
+{:.table.table--primary}
+
+### Motivation: Just da puntje meer.
