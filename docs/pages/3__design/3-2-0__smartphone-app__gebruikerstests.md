@@ -11,7 +11,7 @@ Digital Prototype
 -----------------
 Designs in Xd:<a href="https://xd.adobe.com/view/99b0b3ae-c2d4-4ef9-55ad-3246e368cbe8-ef81/" target="blanck" >Xd Links</a>
 
-## Gebruiker 1: (Bram Macharis)
+## Gebruiker 1: (Arno Hofman)
 ### Opmerking 1:
 Het is leuk dat het pad vanuit het homescreen start van de Iphone.
 ### Opmerking 2:
@@ -23,6 +23,10 @@ Ik vind het leuk dat er met hetzelfde kleurschema gewerkt is in beide toepassing
 
 ### Samenvatting:
 Het is een duidelijke en eenvoudige app, persoonlijk zou er nog een index inmoeten maar zoals gezegt is dit niet de bedoeling om je zo aan te zetten om meer de smartwatch te gebruiken.
+<img src="../../../images/arno5.jpg" alt="arno" class="images2">
+<img src="../../../images/arno6.jpg" alt="arno" class="images2">
+<img src="../../../images/arno7.jpg" alt="arno" class="images2">
+<img src="../../../images/arno8.jpg" alt="arno" class="images2">
 
 ## Gebruiker 2: (Marc Macharis)
 ### Opmerking 1:
@@ -33,6 +37,10 @@ De kaart bij contact is zeer leuk gedaan.
 De app is zeer duidelijk en makkelijk te gebruiken.
 ### Samenvatting:
 De app is makkelijk te gebruiken, juist zijn de terugknoppen niet gebruiksvriendelijk en zou ik ze groter zetten. 
+<img src="../../../images/marc5.jpg" alt="marc" class="images2">
+<img src="../../../images/marc6.jpg" alt="marc" class="images2">
+<img src="../../../images/marc7.jpg" alt="marc" class="images2">
+<img src="../../../images/marc8.jpg" alt="marc" class="images2">
 
 ## Algemene samenvatting:
 De app is duidelijk en gebruiksvriendelijk op een paar details na. De index is een feature die we nog zullen overwegen om deze in de smartphone app te implementeren. De knoppen blijven dezelfde grootte maar de hitbox wordt vergroot.

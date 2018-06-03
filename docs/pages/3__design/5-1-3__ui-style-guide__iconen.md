@@ -7,11 +7,4 @@ published: true
 title: Iconen
 ---
 
-Smartwatch
-----------
-
-Smartphone
-----------
-
-Website
--------
+<img src="../../../images/icons.png" alt="icons" class="images3">
